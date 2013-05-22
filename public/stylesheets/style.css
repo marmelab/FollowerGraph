@@ -7,12 +7,18 @@ a {
   color: #00B7FF;
 }
 
-.node {
-  stroke: #fff;
-  stroke-width: 1.5px;
-}
-
 .link {
   stroke: #999;
   stroke-opacity: .6;
+}
+
+.card text {
+  fill: #aad3e6;
+  stroke: none;
+  font-size: 20px;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+}
+
+.card rect {
+  stroke: none;
 }

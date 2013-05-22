@@ -9,19 +9,19 @@ twitter:
 #  access_token: '207200781-K9IvUuZi98kt8Pp1ymwe9mrmrosjzLF1ng6REvXr'
 #  access_token_secret: 'WesZgaMpGDlzKntmd3snA9pIYWzZokVlaCoJ4pyfA'
 
-#  consumer_key: 'lmMPLdAgTJPOqAHW1F4Tg'
-#  consumer_secret: '8kpFfcPt4Z3bxvHjjDNh85kM4E0n8PlHZiVVL6bpw'
-#  access_token: '207200781-c8kqgO0uoKXL1UmDlOxrLi8kCdrPTkohzJuKndlQ'
-#  access_token_secret: '2c7aUnUv5dzGVF5HlzyIfepTuYERd2HVmYoWv8kGc'
+  consumer_key: 'lmMPLdAgTJPOqAHW1F4Tg'
+  consumer_secret: '8kpFfcPt4Z3bxvHjjDNh85kM4E0n8PlHZiVVL6bpw'
+  access_token: '207200781-c8kqgO0uoKXL1UmDlOxrLi8kCdrPTkohzJuKndlQ'
+  access_token_secret: '2c7aUnUv5dzGVF5HlzyIfepTuYERd2HVmYoWv8kGc'
 
-  consumer_key: '8ATTcsgeRT7NZ0i3kYG6g'
-  consumer_secret: '01UlNlQO1NpUHH7SM2baNYrw2b5cZum9GaBECdcRnk'
-  access_token: '207200781-Piews1UMOmZWdA3ky0QOsSdDLIFChgsfAnjqvFYd'
-  access_token_secret: 'TqmhXOFlMw17wFVYtnOBBuo4LALNZLUu2B4wUpiAsFw'
+#  consumer_key: '8ATTcsgeRT7NZ0i3kYG6g'
+#  consumer_secret: '01UlNlQO1NpUHH7SM2baNYrw2b5cZum9GaBECdcRnk'
+#  access_token: '207200781-Piews1UMOmZWdA3ky0QOsSdDLIFChgsfAnjqvFYd'
+#  access_token_secret: 'TqmhXOFlMw17wFVYtnOBBuo4LALNZLUu2B4wUpiAsFw'
 
 application:
 #  userId: 336123336 #brikou2
-#  userId: 14089153 #francoisz
+  userId: 14089153 #francoisz
 #  userId: 176780670 #F3Lorraine
 #  userId: 498800071 #DaphDaOne
-  userId: 1153172437 #ManuTestDev
+#  userId: 1153172437 #ManuTestDev
